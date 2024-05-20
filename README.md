@@ -13,4 +13,5 @@ The project utilizes a dataset from Kaggle, which combines information from Soch
 5. **Evaluation**: The project uses evaluation metrics such as accuracy, precision, recall, and F1-score to assess the performance of the classifiers.
 
 ---- Results
+
 The project provides detailed performance of different feature sets and classifiers, the impact of data filtering, and the effectiveness of combining linguistic and sentiment-related features.
