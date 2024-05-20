@@ -3,6 +3,7 @@
 This project focuses on sentiment classification of movie reviews using machine learning techniques and feature engineering approaches. The goal is to classify movie reviews into different sentiment categories, such as negative, somewhat negative, neutral, somewhat positive, and positive.
 
 ---- Dataset
+
 The project utilizes a dataset from Kaggle, which combines information from Socher et al.'s sentiment analysis and Pang and Lee's original movie review corpus sourced from Rotten Tomatoes.
 
 ---- Approach
